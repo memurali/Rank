@@ -1,0 +1,27 @@
+.suggestionListcrp 
+{
+	position: relative;
+	z-index:-1;
+	margin: 0px;
+	padding: 0px;
+}
+.suggestionsBoxcrp 
+{
+	position: absolute;
+	margin-left:auto ;
+	width: 300px;
+	background-color: #212427;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border: 2px solid #000;	
+	color: #fff;
+	z-index:2;
+}
+li.sugessitionboxclass
+{
+	font-family:Tahoma;
+	font-size:8.5pt;
+	list-style-type:none;
+	margin: 0px 0px 0px 0px;
+	padding: 3px;
+}
